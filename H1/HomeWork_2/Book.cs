@@ -1,42 +1,70 @@
 using System;
+using System.Dynamic;
+using System.Reflection;
 
 namespace LibrarySystem
 {
     public class Book
     {
-        public string title;
-        public string author;
-        public int pages;
-        public bool isCheckedOut;
+       
+        private string author;
+        public string Author{
+            get{return author;}
+            set{author = value;}
+        }
+
+
+        private int pages;
+
+        public int Pages{
+            get{return pages;}
+            set{pages = value;}
+        }
+        
+        
+        
+        private bool ischeckedout;
+        public bool IsCheckedOut{
+            get{return ischeckedout;}
+            set{ischeckedout = value;}
+        }
+
+
+         private string title;
+        public string Title{
+            get{return title; }
+            set{title = value; }
+
+        }
 
         public Book(string title, string author)
         {
-            this.title = title;
-            this.author = author;
-            this.pages = 100; 
-            this.isCheckedOut = false;
+            Title = title;
+            Author = author;
+            Pages = 100; 
+            IsCheckedOut = false;
         }
         public Book(string title, string author, int pages)
         {
-            this.title = title;
-            this.author = author;
-            this.pages = pages;
-            this.isCheckedOut = false;
+            Title = title;
+            Author = author;
+            Pages = pages;
+            IsCheckedOut = false;
         }
 
         public void CheckOut()
         {
-            isCheckedOut = true;
+            ischeckedout = true;
         }
 
         public void ReturnBook()
         {
-            isCheckedOut = false;
+            ischeckedout = false;
         }
 
         public override string ToString()
         {
-            return $"Title: {title}, Author: {author}, Pages: {pages}, Checked Out: {(isCheckedOut ? "Yes" : "No")}";
+            return $"Title: {title}, Author: {author}, Pages: {pages}, Checked Out: {(ischeckedout ? "Yes" : "No")}";
         }
     }
 }

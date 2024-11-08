@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\TestReq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\TestReq2.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\TestReq2.AssemblyInfo.cs
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\TestReq2.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\TestReq2.sourcelink.json
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\bin\Debug\net8.0\TestReq2.exe
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\bin\Debug\net8.0\TestReq2.deps.json
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\bin\Debug\net8.0\TestReq2.runtimeconfig.json
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\bin\Debug\net8.0\TestReq2.dll
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\bin\Debug\net8.0\TestReq2.pdb
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\TestReq2.dll
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\refint\TestReq2.dll
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\TestReq2.pdb
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\TestReq2.genruntimeconfig.cache
+C:\Users\alex\Documents\GitHub\Homework\H1\TestReq2\obj\Debug\net8.0\ref\TestReq2.dll
